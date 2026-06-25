@@ -184,7 +184,7 @@ header{
     position:relative;
     min-height:calc(100vh - 100px);
 
-    background:url("../images/hero-banner.png.png")
+    background:url("hero-banner.png.png")
     center center/cover no-repeat;
 
     display:flex;
